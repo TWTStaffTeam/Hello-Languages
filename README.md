@@ -1,2 +1,2 @@
 # Hello-Languages
-Hello, world! in tens of languages
+Hello, world! in tons of languages
